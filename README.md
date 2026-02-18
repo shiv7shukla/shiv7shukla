@@ -43,5 +43,5 @@ A competitive coding platform with live collaboration for technical interviews. 
 
 ---
 
-<p style="text-align: center;">`Built with conviction, not templates`</p>
-<p style="text-align: center;">`Shiv`</p>
+`Built with conviction, not templates`
+`Shiv`
