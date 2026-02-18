@@ -1,6 +1,6 @@
 # Shiv Shukla
 
-Software engineer building reliable, scalable systems. Focused on full-stack development, real-time applications, and security-first architecture.
+Software engineer building reliable and scalable systems. Focused on full-stack development, real-time applications, and security-first architecture.
 
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=flat&logo=gmail&logoColor=white)](mailto:shivshukla00514@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat&logo=github&logoColor=white)](https://github.com/shiv7shukla)
@@ -43,5 +43,5 @@ A competitive coding platform with live collaboration for technical interviews. 
 
 ---
 
-`Built with conviction, not templates`
-`Shiv`
+`Built with conviction, not templates- Shiv`
+
