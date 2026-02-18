@@ -2,6 +2,9 @@
 
 Software engineer building reliable, scalable systems. Focused on full-stack development, real-time applications, and security-first architecture.
 
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=flat&logo=gmail&logoColor=white)](mailto:shivshukla00514@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat&logo=github&logoColor=white)](https://github.com/shiv7shukla)
+
 ---
 
 ### Stack
@@ -19,11 +22,11 @@ Software engineer building reliable, scalable systems. Focused on full-stack dev
 
 ### Projects
 
-**Sect** — End-to-End Encrypted Chat
+**Sect** — *End-to-End Encrypted Chat*
 A privacy-first messaging app implementing the Signal Protocol for E2EE. Built for secure, real-time communication with zero-knowledge architecture.
 `React` `Node.js` `MongoDB` `TypeScript`
 
-**LiveJudge** — Real-Time Coding & Interview Platform
+**LiveJudge** — *Real-Time Coding & Interview Platform*
 A competitive coding platform with live collaboration for technical interviews. Features real-time code execution, evaluation, and structured interview workflows.
 `Next.js` `Node.js` `Express` `MongoDB` `TypeScript`
 
@@ -48,5 +51,4 @@ A competitive coding platform with live collaboration for technical interviews. 
 
 ---
 
-<a href="mailto:shivshukla00514@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/shiv7shukla"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat&logo=github&logoColor=white" /></a>
+`shiv7shukla`
