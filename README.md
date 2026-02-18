@@ -21,6 +21,7 @@ A privacy-first messaging app implementing the Signal Protocol for E2EE. Built f
 
 **LiveJudge** — *Real-Time Coding & Interview Platform*
 A competitive coding platform with live collaboration for technical interviews. Features real-time code execution, evaluation, and structured interview workflows.
+
 ---
 
 ### Hacktoberfest
@@ -42,4 +43,5 @@ A competitive coding platform with live collaboration for technical interviews. 
 
 ---
 
-`shiv7shukla`
+<p style="text-align: center;">`Built with conviction, not templates`</p>
+<p style="text-align: center;">`Shiv`</p>
