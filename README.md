@@ -1,75 +1,39 @@
-<h1 align="center">Shiv Shukla</h1>
-<p align="center">
-Software Engineer • Full-Stack Developer • Systems-Focused Builder
-</p>
+Shiv Shukla
 
-<p align="center">
-<a href="mailto:shivshukla00514@gmail.com">shivshukla00514@gmail.com</a>
-</p>
+Full-stack engineer building secure systems, scalable platforms, and developer tooling.
 
----
+Core Stack
 
-### Tech Stack
+Frontend
+React · Next.js · Tailwind CSS · Zustand · React Router · React Hook Form
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,javascript,tailwind,zustand" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+Backend
+Node.js · Express · MongoDB
 
-**Frontend:** React, Next.js, Tailwind, Zustand, TanStack Query, React Hook Form  
-**Backend:** Node.js, Express  
-**Database:** MongoDB  
-**Validation:** Zod, TypeScript  
+Type Safety & Data
+TypeScript · Zod · TanStack Query
 
----
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32"/> </p>
+Selected Work
+Sect — End-to-End Encrypted Chat Platform
 
-### Featured Projects
+Privacy-first real-time messaging implementing Signal-style encryption flows and secure key exchange.
+Engineering focus: cryptography integration, realtime systems, scalable backend APIs.
 
-#### 🧠 LiveJudge — Interview Platform + Coding Judge  
-**Tech:** Next.js, Node.js, MongoDB, WebSockets  
+LiveJudge — Coding + Interview Platform
 
-• Real-time coding interviews with execution engine  
-• LeetCode-style problem evaluation system  
-• Integrated chat, video, and collaborative whiteboard  
+LeetCode-style problem solving with live interview workflows and collaboration tools.
+Engineering focus: performance, system design, full-stack architecture.
 
-**Impact:** End-to-end simulation of real technical interview workflows  
+Open Source Contributions (Hacktoberfest)
+<p> <img src="https://holopin.me/shiv7shukla" /> </p>
 
----
+(All Hacktoberfest badges rendered directly — visual proof of open-source participation.)
 
-#### 🔐 SECT — End-to-End Encrypted Chat Application  
-**Tech:** React, Node.js, Signal-style cryptography  
+GitHub Snapshot
+<p> <img src="https://github-readme-stats.vercel.app/api?username=shiv7shukla&show_icons=true&hide_title=true&theme=dark" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv7shukla&layout=compact&theme=dark" height="150"/> </p>
+Contact
 
-• True E2EE with secure key exchange  
-• Forward secrecy & encrypted real-time messaging  
+📧 shivshukla00514@gmail.com
 
-**Impact:** Production-grade secure communication architecture  
-
----
-
-### Hacktoberfest & Open Source
-
-<p align="left">
-  <img src="https://holopin.io/api/user/board?user=shiv7shukla" width="700" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="left">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=shiv7shukla&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv7shukla&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### Contact
-
-📧 shivshukla00514@gmail.com  
-
----
-
-<p align="center">
-Building scalable systems, not just interfaces.
-</p>
+🐙 github.com/shiv7shukla
