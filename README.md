@@ -9,14 +9,7 @@ Software engineer building reliable, scalable systems. Focused on full-stack dev
 
 ### Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-1a1a2e?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat&logo=mongodb&logoColor=47A248)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=flat&logo=tailwindcss&logoColor=06B6D4)
+(https://skillicons.dev/icons?i=html,css,js, ts, nodejs, express, react, nextjs, tailwind, mongodb, postgres, prisma, mysql, npm, python, materialui, md, git)](https://skillicons.dev)
 
 ---
 
@@ -28,8 +21,6 @@ A privacy-first messaging app implementing the Signal Protocol for E2EE. Built f
 
 **LiveJudge** — *Real-Time Coding & Interview Platform*
 A competitive coding platform with live collaboration for technical interviews. Features real-time code execution, evaluation, and structured interview workflows.
-`Next.js` `Node.js` `Express` `MongoDB` `TypeScript`
-
 ---
 
 ### Hacktoberfest
